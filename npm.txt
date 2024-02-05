@@ -1,0 +1,2 @@
+npm install onnxruntime-node@latest
+npm install @xenova/transformers@latest
